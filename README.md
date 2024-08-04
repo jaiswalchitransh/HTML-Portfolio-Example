@@ -1,4 +1,4 @@
-# HTML-Portfolio-Example
+# HTML Portfolio Example
 
 ## Table of Contents
 - [Project Overview](#project-overview)
