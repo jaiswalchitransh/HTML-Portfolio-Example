@@ -11,6 +11,7 @@
 ## Project Overview
 This HTML code creates a single-page portfolio. The document declares its type and specifies the language. Metadata such as character set and viewport settings are included in the head section. The body is structured with a header identifying the name and role of the person (Chitransh Jaiswal, Full Stack Web Developer) and includes two project sections. Each project section has a header with a link to the corresponding HTML file and an image with a description. Sections are divided with horizontal lines (hr). There are also links to "Contact" and "About" pages. This code generates a simplified portfolio featuring the developer’s name, role, and highlighted projects, providing image and link options.
 
+![alt text](https://github.com/jaiswalchitransh/HTML-Portfolio-Example/blob/main/Sample%20Output/Sample%20Output%201.png)
 
 ## Installation
 To set up this project on your local machine, follow these steps:
